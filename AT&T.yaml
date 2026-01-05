@@ -1,0 +1,47 @@
+
+---
+
+## 🔧 Technologies
+
+- Python 3.10  
+- TensorFlow / Keras  
+- HuggingFace Transformers  
+- Scikit-Learn  
+- Matplotlib & Seaborn  
+
+---
+
+## 🚀 Models
+
+### Baseline (BiLSTM)
+- Embedding + BiLSTM + Dense
+- High accuracy: **98%**
+- AUC: **0.99**
+
+### DistilBERT (Fine-Tuned)
+- State-of-the-art NLP architecture
+- Accuracy: **99%**
+- AUC: **0.999**
+- Low False Positives (3 only)
+
+---
+
+## 📊 Key Results
+
+- DistilBERT significantly outperforms traditional Deep Learning models
+- Excellent separation between ham / spam
+- Ready for production-level deployment
+
+---
+
+## 📎 Next Steps
+
+- Deployment using FastAPI  
+- Monitoring & automated retraining  
+- Threshold optimization based on business risks  
+- Scaling using GPU inference  
+
+---
+
+## 👨‍💻 Author
+Faycel — Data Scientist @ Jedha
