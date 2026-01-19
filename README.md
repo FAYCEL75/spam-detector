@@ -46,7 +46,7 @@ Python, TensorFlow, Keras, PyTorch, HuggingFace Transformers, Scikit-learn
 
 ---
 
-## 🔧 Technologies
+## Technologies
 
 - Python 3.10  
 - TensorFlow / Keras  
@@ -56,7 +56,7 @@ Python, TensorFlow, Keras, PyTorch, HuggingFace Transformers, Scikit-learn
 
 ---
 
-## 🚀 Models
+## Models
 
 ### Baseline (BiLSTM)
 - Embedding + BiLSTM + Dense
@@ -71,7 +71,7 @@ Python, TensorFlow, Keras, PyTorch, HuggingFace Transformers, Scikit-learn
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 - DistilBERT significantly outperforms traditional Deep Learning models
 - Excellent separation between ham / spam
